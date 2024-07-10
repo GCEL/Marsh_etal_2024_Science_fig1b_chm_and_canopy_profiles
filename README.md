@@ -1,6 +1,8 @@
 # Marsh_etal_2024_Science_fig1b_chm_and_canopy_profiles
 Code to reproduce figure 1b from Marsh et al., 2024, Science: "Logging alters tropical forest structure, while conversion reduces biodiversity and functioning"
 
+![canopy_structure_across_gradient](https://github.com/GCEL/Marsh_etal_2024_Science_fig1b_chm_and_canopy_profiles/assets/3473480/b22b5056-3182-4939-bb7c-6c20b2503796)
+
 The repository contains the following:
 - lidar_canopy_profiles_adaptive_for_synthesis.npz -> data file with the canopy profiles from the forest plots
 - lidar_canopy_profiles_adaptive_OP_for_synthesis.npz -> data file with the canopy profiles for oil palm plantation
